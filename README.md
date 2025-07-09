@@ -1,3 +1,6 @@
+<h1>Creo</h1>
+
+
 <div style="display: flex; gap: 8px; align-items: center;">
   <a href="https://modrinth.com/project/creo" target="_blank" rel="noopener noreferrer">
     <img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
