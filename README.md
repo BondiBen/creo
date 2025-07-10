@@ -15,18 +15,18 @@
 
 <br>
 
-<h2>The Creo modpack</h2>
+<h2> 📐 The Creo modpack</h2>
 
 
 Creo is a relaxed, creativity-first Minecraft modpack built around construction, design, and self-expression. With a soft aesthetic and blueprint-inspired feel, Creo offers a carefully selected set of mods that support builders, architects, and casual players alike.
 
-<h2>Server Version</h2>
+<h2> 1️⃣ Server Version</h2>
 
 
 While there isn't a Modrinth pack containing only the server-side mods, you can find a list of them on [Moddermore](https://moddermore.net/list/3SrplOW-ZrSN).
 
 
-<h2>List of content</h2>
+<h2> 📃 List of content</h2>
 
 
 - [**3D Skin Layers**](https://modrinth.com/mod/3dskinlayers) - Render the player skin layer in 3d!
@@ -61,5 +61,11 @@ While there isn't a Modrinth pack containing only the server-side mods, you can 
 - [**YetAnotherConfigLib (YACL)**](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
 - [**[EMF] Entity Model Features**](https://modrinth.com/mod/entity-model-features) - EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge.
 - [**[ETF] Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures) - Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric
+- [**spark**](https://modrinth.com/mod/spark) - spark is a performance profiler for Minecraft clients, servers and proxies.
+- [**Resourceful Lib**](https://modrinth.com/mod/resourceful-lib) - Resourceful Lib
+- [**Create: Let The Adventure Begin**](https://modrinth.com/mod/create-let-the-adventure-begin) - Create: Let The Adventure Begin adds Structures 62 unique structures, New Loot, a chance to fish create mod items and much more !!!
+- [**Friends&Foes (Forge/NeoForge)**](https://modrinth.com/mod/friends-and-foes-forge) - Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and adding new vanilla-like features. The mod includes: Copper Golem, Crab, Glare, Moobloom, Iceologer, Rascal, Tuff Golem, Wildfire, Illusioner, Zombie Horse
+- [**Terralith**](https://modrinth.com/mod/terralith) - Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.
+- [**Spawn Animations**](https://modrinth.com/mod/spawn-animations) - Hostile mobs dig out of the ground or poof into existence when they spawn!
 
 ---
