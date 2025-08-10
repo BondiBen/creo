@@ -34,16 +34,6 @@ body:
       default: 0
     validations:
       required: true
-  - type: dropdown
-    id: os
-    attributes:
-      label: In which os are you seeing the problem?
-      multiple: true
-      options:
-        - Windows 10/11
-        - MacOS
-        - Linux
-        - Other
   - type: textarea
     id: logs
     attributes:
