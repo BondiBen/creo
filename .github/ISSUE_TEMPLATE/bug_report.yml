@@ -30,7 +30,7 @@ body:
       label: Version
       description: What version of our software are you running?
       options:
-        - Creo (Default)
+        - 1.0.0
       default: 0
     validations:
       required: true
